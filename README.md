@@ -11,7 +11,11 @@ I help businesses make their processes efficient through the development and imp
 Javascript, HTML, CSS...
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
           
+          
+
 
 
 
